@@ -1,0 +1,17 @@
+{
+  "name": "paginationmongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expresss": "^0.0.0",
+    "mongoose": "^6.3.8"
+  }
+}
